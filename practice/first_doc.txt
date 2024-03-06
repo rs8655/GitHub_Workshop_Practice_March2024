@@ -1,3 +1,7 @@
 Here is the first file I ever created in GitHub!
-  Amazing!
+  
   I can do this!
+
+Adding some text to see changes made in GitHub desktop.
+
+Amazing!
